@@ -1,0 +1,20 @@
+<?php
+return [
+    'About Us' => 'About Us',
+    'Blog' => 'Blog',
+    'Demo' => 'Demo',
+    'Customers' => 'Customers',
+    'Investors' => 'Investors',
+    'Terms of Services' => 'Terms of Services',
+    'Contact Us' => 'Contact Us',
+    'Jobs' => 'Jobs',
+    'Supports' => 'Supports',
+    'Contact' => 'Blog',
+    'Sponsorships' => 'Sponsorships',
+    'Social Media' => 'Social Media',
+    'Facebook' => 'Facebook',
+    'Instagram' => 'Instagram',
+    'twitter' => 'twitter',
+    'linkedin' => 'linkedin',
+    'Copyright' => 'Copyright &copy; All rights reserved, 2023',
+];
